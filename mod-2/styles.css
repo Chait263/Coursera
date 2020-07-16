@@ -17,9 +17,9 @@ section > p{
 }
 section {
     clear:both;
-    border: 5px solid black;
+    border: 1px solid black;
     background-color: grey;
-    margin: 15px;
+    margin: 10px;
     height: 300px;
     margin-right: auto;
     font-family: Helvetica;
@@ -31,7 +31,7 @@ section > h3{
     padding: 10px;
     width: 30%;
     height: 50px;
-    border: 5px solid black;
+    border: 1px solid black;
     background-color: rgb(231, 93, 29); 
     font-size: 1.5em; 
     text-align: center;
@@ -40,9 +40,18 @@ section > h3{
     font-family: Helvetica;
     color:black;
     position: relative;
-    top: -5px;
-    right: -5px;
+    top: -1px;
+    right: -1px;
 }  
+#t1{
+    background-color: lightseagreen;
+}
+#t2{
+    background-color:mediumorchid;
+}
+#t3{
+    background-color:red:
+}
 .row {
     width: 100%;
   }
